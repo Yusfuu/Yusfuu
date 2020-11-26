@@ -1,16 +1,18 @@
-### Hi there 👋
+## I use code to create things that benefit others 😃
 
-<!--
-**Yusfuu/Yusfuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ Loving JavaScript, [TypeScript][typescript], [Reactjs][react]
 
-Here are some ideas to get you started:
+👨🏼‍💻 Building Something Cooool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Learning Problem Solving
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|**
+👔 [linkedin][linkedin]
+
+[react]: http://reactjs.org
+[typescript]: https://www.typescriptlang.org/
+[twitter]: https://twitter.com/HajjariYoussef
+[linkedin]: https://www.linkedin.com/in/youssef-hajjari-36430019b/
+[instagram]: https://www.instagram.com/youssef.hajjari/
+
