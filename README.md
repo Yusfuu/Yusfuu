@@ -12,7 +12,7 @@
 
 [react]: http://reactjs.org
 [typescript]: https://www.typescriptlang.org/
-[twitter]: https://twitter.com/HajjariYoussef
+[twitter]: https://twitter.com/YsfHajjari
 [linkedin]: https://www.linkedin.com/in/youssef-hajjari-36430019b/
 [instagram]: https://www.instagram.com/youssef.hajjari/
 
