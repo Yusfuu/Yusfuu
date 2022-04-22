@@ -7,7 +7,6 @@
 🧠 Learning Problem Solving
 
 🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
 
 [react]: http://reactjs.org
