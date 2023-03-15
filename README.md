@@ -4,7 +4,7 @@
 
 👨🏼‍💻 Building Something Cooool
 
-🧠 Learning Problem Solving
+🧠 Problem Solving
 
 <a href="https://www.linkedin.com/in/youssef-hajjari"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/Yosufuu"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
